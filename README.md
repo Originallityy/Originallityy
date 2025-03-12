@@ -1,6 +1,7 @@
-<p align="center">
+<div align="right">
+  <span>@Originallityy - </span>
   <img src="https://avatars.githubusercontent.com/u/189269364?s=100" alt="Profile Picture" width="50" height="50">
-</p>
+</div>
 
 helloo! im a 13 year old student, and i love programming (as a hobby), and i develop games!!  
 > [!IMPORTANT]\
