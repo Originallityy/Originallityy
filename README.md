@@ -1,6 +1,6 @@
 <div align="right">
-  <span>@Originallityy - </span>
-  <img src="https://avatars.githubusercontent.com/u/189269364?s=100" alt="Profile Picture" width="50" height="50">
+  <span style="font-size: 10px; font-style: italic;">@Originallityy - </span>
+  <img src="https://avatars.githubusercontent.com/u/189269364?s=100" alt="Profile Picture" width="25" height="25">
 </div>
 
 helloo! im a 13 year old student, and i love programming (as a hobby), and i develop games!!  
