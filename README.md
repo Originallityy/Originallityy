@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/189269364?s=100" alt="Profile Picture">
+  <img src="https://avatars.githubusercontent.com/u/189269364?s=25" alt="Profile Picture">
 </p>
 
 helloo! im a 13 year old student, and i love programming (as a hobby), and i develop games!!  
