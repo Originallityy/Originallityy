@@ -15,13 +15,13 @@ helloo! im a 13 year old student, and i love programming (as a hobby), and i dev
 
 here are a few programming languages i like or learned:
 
-- ![HTML](images/html.png) HTML
-- ![CSS](images/css.png) CSS
-- ![JavaScript](images/js.png) JS
-  - ![TypeScript](images/ts.png) TS
-- ![Bat files](images/bat.png) Bat files
-- ![Ruby](images/ruby.png) Ruby
-- ![Python](images/python.png) Python (my most fav)
+- <img src="images/html.png" alt="HTML" width="auto" height="15"> HTML
+- <img src="images/css.png" alt="CSS" width="auto" height="15"> CSS
+- <img src="images/js.png" alt="JavaScript" width="auto" height="15"> JavaScript
+  - <img src="images/ts.png" alt="TypeScript" width="auto" height="15"> TypeScript
+- <img src="images/bat.png" alt="Bat files" width="auto" height="15"> Bat files
+- <img src="images/ruby.png" alt="Ruby" width="auto" height="15"> Ruby
+- <img src="images/python.png" alt="Python" width="auto" height="15"> Python (my most fav)
 
 
 <div align="center">
