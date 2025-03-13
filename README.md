@@ -24,7 +24,7 @@ here are a few programming languages i like or learned:
 
 <div align="center">
   <h3>github status</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Originallityy&show_icons=true&theme=transparent" alt="Anurag's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Originallityy&layout=compact&langs_count=16&theme=transparent" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DexTheSillyCat&show_icons=true&theme=transparent" alt="DexTheSillyCat's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DexTheSillyCat&layout=compact&langs_count=16&theme=transparent" alt="Top Langs"/>
 
 </div>
