@@ -20,7 +20,6 @@ here are a few programming languages i like or learned:
 - <img src="https://cdn.simpleicons.org/ruby/CC342D" height="15"> Ruby
 - <img src="https://cdn.simpleicons.org/python/3776AB" height="15"> Python
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   <h3>github status</h3>
